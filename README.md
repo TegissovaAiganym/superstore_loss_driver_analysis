@@ -1,6 +1,6 @@
-# 📦 Product-Level Loss Driver Analysis (Superstore Dataset)
+#  Product-Level Loss Driver Analysis (Superstore Dataset)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes **product-level profitability** using the Superstore dataset, with the goal of identifying **why certain products generate losses** despite overall positive performance.
 
 Rather than stopping at surface-level KPIs, the analysis drills down into **pricing behavior, customer concentration, time patterns, and operational factors** to identify the **true root causes** of losses.
@@ -9,7 +9,7 @@ The project combines **SQL-based exploratory analysis** with **Power BI dashboar
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Source:** Superstore Dataset (Kaggle)
 - **Grain:** Order line–level transactional data
 - **Key fields:**  
